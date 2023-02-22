@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geesssveee/nodejspractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geesssveee/nodejspractice/issues"
+  },
+  "homepage": "https://github.com/geesssveee/nodejspractice#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

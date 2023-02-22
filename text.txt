@@ -1,0 +1,13 @@
+Node js is asynchronous
+Because nodejs is asynchronous we have to use await while reading the data
+
+
+npm - node package manager
+
+nodemon always looks for index.js
+
+nodemodules will have all the necessary data and is very huge. 
+To ignore files that are large into github we can add .gitignore and mention that file.
+
+Next time if we want to clone this repository in another computer , 
+after cloning we need to run npm install so that it wil install all necessary packages from package.json into node modules
