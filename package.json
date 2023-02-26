@@ -4,7 +4,8 @@
     "uuid": "^9.0.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server",
+    "dev":"nodemon server"
   },
   "name": "nodejspractice",
   "version": "1.0.0",
